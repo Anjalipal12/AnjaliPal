@@ -1,5 +1,4 @@
-# AnjaliPal
-👩‍💻 Machine Learning Enthusiast | Aspiring ML Engineer"
+
 <!-- GitHub Profile README for Anjali Pal -->
 
 <h1 align="center">Hi there, I'm Anjali Pal 👋</h1>
